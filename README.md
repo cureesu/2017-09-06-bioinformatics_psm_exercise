@@ -2,3 +2,6 @@
 Demo repository to USF
 
 This is a line that we added on our laptops.
+
+This is a line we added after configuring git.
+
